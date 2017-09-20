@@ -1,2 +1,19 @@
-# Youtube-to-MP3---PHP---Windows
-Simple test pour utiliser Youtube-Dl et AvProb
+# Youtube-to-MP3 - Using simple PHP (no composer) - For Windows
+
+This is a simple converter youtube to Mp3 , work with simple uwamp/wamp install (no composer)
+
+This code launch Youtube-dl and avprob (allready include in Lib folder)
+
+This is just a test i have make for educational and not for public use.
+
+done in 7m 12s
+
+--------------
+
+C'est un simple convertiseur youtube vers mp3 , fonctionne avec uwamp/wamp sans installer composer
+
+Ce code utilise Youtube-dl et avprob (déjà ajouter dans le dossier LIB)
+
+C'est juste un test que j'ai fait pour l'apprentisage et n'est pas fait pour utilisation public
+
+fait en 7m 12s
